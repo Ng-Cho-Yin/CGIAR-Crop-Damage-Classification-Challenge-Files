@@ -1,6 +1,6 @@
 # CGIAR-Crop-Damage-Classification-Challenge-Files
 
-Related files for CGIAR Crop Damage Classification Challenge
+Files for CGIAR Crop Damage Classification Challenge
 
 
 [Starter Model provided by competition](https://github.com/Ng-Cho-Yin/CGIAR-Crop-Damage-Classification-Challenge-Files/blob/main/CGIAR_Crop_Damage_Classification_Challenge_Starter.ipynb)
