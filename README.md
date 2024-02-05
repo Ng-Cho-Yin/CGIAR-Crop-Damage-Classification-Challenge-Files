@@ -4,7 +4,7 @@ Files for CGIAR Crop Damage Classification Challenge
 
 ## Tutorial file
 
-[Tutorial for this competition](https://github.com/Ng-Cho-Yin/CGIAR-Crop-Damage-Classification-Challenge-Files/blob/main/fine-tune-vit-for-contest_1.ipynb)
+[Tutorial for the competition](https://github.com/Ng-Cho-Yin/CGIAR-Crop-Damage-Classification-Challenge-Files/blob/main/fine-tune-vit-for-contest_1.ipynb)
 
 ## Supoort files
 
